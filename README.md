@@ -38,7 +38,11 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 📱 Web Design & Quality
+### 📱 Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🎨 Web Design & Quality
 
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-5C2D91?style=for-the-badge)
 ![Accessibility](https://img.shields.io/badge/Accessibility-0052CC?style=for-the-badge)
