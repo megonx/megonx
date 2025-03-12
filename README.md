@@ -20,7 +20,7 @@
 
 </div>
 
-Experienced developer with extensive knowledge in web development, machine learning, and blockchain. Passionate about building innovative and scalable solutions using modern technologies.
+Experienced developer with extensive knowledge in web development, blockchain, and machine learning. Passionate about building innovative and scalable solutions using modern technologies.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black)
 [![GitHub followers](https://img.shields.io/github/followers/megonx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/megonx?tab=followers)
