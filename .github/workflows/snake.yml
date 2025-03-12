@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas
-  workflow_dispatch:        # Permite execução manual 
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch: # Permite execução manual
   push:
     branches:
-      - main                # Executa em cada push na branch main
+      - main # Executa em cada push na branch main
 
 permissions:
   contents: write
@@ -21,7 +21,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: megonx
-          outputs: dist/github-snake.svg, dist/github-snake-dark.svg?palette=github-dark, dist/github-contribution-grid-snake.svg, "dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Publica as imagens no branch "output"
       - uses: crazy-max/ghaction-github-pages@v4
