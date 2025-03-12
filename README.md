@@ -9,6 +9,7 @@
   <a href="#skills">Skills</a> •
   <a href="#projects">Projects</a> •
   <a href="#statistics">Statistics</a> •
+  <a href="#contributions">Contributions</a> •
   <a href="#contact">Contact</a>
 </p> -->
 
@@ -106,9 +107,9 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 
 <h2 id="statistics">📊 GitHub Statistics</h2>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megonx&theme=radical" alt="GitHub Streak" />
-</div> -->
+</div>
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=megonx&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -118,8 +119,10 @@ Experienced developer with extensive knowledge in web development, blockchain, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megonx&layout=compact&theme=radical" alt="Top Languages" />
 </div> -->
 
+<h2 id="contributions">🐍 Contributions</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/megonx/megonx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/megonx/megonx/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- <h2 id="contact">📫 Get in Touch</h2>
