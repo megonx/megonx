@@ -20,7 +20,7 @@
 
 </div>
 
-Experienced developer with extensive knowledge in web development, blockchain, and data science. Passionate about building innovative and scalable solutions using modern technologies.
+Experienced developer with extensive knowledge in web development, machine learning, and blockchain. Passionate about building innovative and scalable solutions using modern technologies.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black)
 [![GitHub followers](https://img.shields.io/github/followers/megonx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/megonx?tab=followers)
@@ -106,9 +106,9 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 
 <h2 id="statistics">📊 GitHub Statistics</h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megonx&theme=radical" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=megonx&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -117,6 +117,10 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megonx&layout=compact&theme=radical" alt="Top Languages" />
 </div> -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/megonx/megonx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <!-- <h2 id="contact">📫 Get in Touch</h2>
 
@@ -128,7 +132,3 @@ Experienced developer with extensive knowledge in web development, blockchain, a
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 </div> -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/megonx/megonx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
