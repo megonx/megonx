@@ -22,7 +22,8 @@
 
 Experienced developer with extensive knowledge in web development, blockchain, and data science. Passionate about building innovative and scalable solutions using modern technologies.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx) [![GitHub followers](https://img.shields.io/github/followers/megonx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/megonx?tab=followers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black)
+[![GitHub followers](https://img.shields.io/github/followers/megonx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/megonx?tab=followers)
 
 <h2 id="skills">🛠️ Technical Skills</h2>
 
@@ -65,18 +66,15 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=for-the-badge)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
 ![Vyper](https://img.shields.io/badge/Vyper-333333?style=for-the-badge)
 ![Web3.py](https://img.shields.io/badge/Web3.py-3671A3?style=for-the-badge)
-![Ape](https://img.shields.io/badge/Ape-000000?style=for-the-badge)
-![Brownie](https://img.shields.io/badge/Brownie-A52A2A?style=for-the-badge)
+
+<!-- ![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=for-the-badge) -->
+<!-- ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge) -->
+<!-- ![Ape](https://img.shields.io/badge/Ape-000000?style=for-the-badge) -->
 
 ### 🤖 Data Science & AI
-
-<!-- ![Data Science](https://img.shields.io/badge/Data%20Science-FFF100?style=for-the-badge&logo=pandas&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -91,7 +89,6 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 <!-- <h2 id="projects">🔥 Featured Projects</h2>
 
