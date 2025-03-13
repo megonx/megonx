@@ -121,7 +121,7 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 <h2 id="statistics">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megonx&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-plmh.vercel.app?user=megonx&theme=radical" alt="GitHub Streak" />
 </div>
 
 <!-- <div align="center">
