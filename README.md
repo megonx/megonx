@@ -26,9 +26,6 @@
 
 Experienced developer with extensive knowledge in web development, blockchain, and machine learning. Passionate about building innovative and scalable solutions using modern technologies.
 
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black)
-[![GitHub followers](https://img.shields.io/github/followers/megonx?style=social&label=followers&maxAge=2592000)](https://github.com/megonx?tab=followers) -->
-
 <h2 id="skills">🛠️ Technical Skills</h2>
 
 ### 💻 Frontend
@@ -81,10 +78,6 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
 ![Vyper](https://img.shields.io/badge/Vyper-333333?style=for-the-badge)
 ![Web3.py](https://img.shields.io/badge/Web3.py-3671A3?style=for-the-badge)
-
-<!-- ![Truffle](https://img.shields.io/badge/Truffle-5C2D91?style=for-the-badge) -->
-<!-- ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge) -->
-<!-- ![Ape](https://img.shields.io/badge/Ape-000000?style=for-the-badge) -->
 
 ### 🤖 Data Science & AI
 
