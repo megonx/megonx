@@ -1,9 +1,4 @@
-<!-- # Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Marco Emilio](https://github.com/megonx)! -->
-
-<h1>
-  <span>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/megonx">Marco Emilio</a>!</span>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black" alt="Visitors" align="right">
-</h1>
+# Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Marco Emilio](https://github.com/megonx)!
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/megonx/megonx/main/assets/header-image.png" alt="Cover Banner" width="100%"/>
@@ -18,7 +13,10 @@
   <a href="#contact">Contact</a>
 </p> -->
 
-<h2 id="about-me">🚀 About Me</h2>
+<h2 id="about-me">
+  <span>🚀 About Me</span>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black" alt="Visitors" align="right">
+</h2>
 
 <div align="center">
 
