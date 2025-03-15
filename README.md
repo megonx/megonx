@@ -1,4 +1,17 @@
-# Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Marco Emilio](https://github.com/megonx)!
+<!-- # Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Marco Emilio](https://github.com/megonx)! -->
+
+<style>
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+</style>
+
+<h1 class="header">
+  <span>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/megonx">Marco Emilio</a>!</span>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black" alt="Visitors">
+</h1>
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/megonx/megonx/main/assets/header-image.png" alt="Cover Banner" width="100%"/>
@@ -23,8 +36,8 @@
 
 Experienced developer with extensive knowledge in web development, blockchain, and machine learning. Passionate about building innovative and scalable solutions using modern technologies.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black)
-[![GitHub followers](https://img.shields.io/github/followers/megonx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/megonx?tab=followers)
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black)
+[![GitHub followers](https://img.shields.io/github/followers/megonx?style=social&label=followers&maxAge=2592000)](https://github.com/megonx?tab=followers) -->
 
 <h2 id="skills">🛠️ Technical Skills</h2>
 
