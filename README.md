@@ -1,14 +1,6 @@
 <!-- # Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Marco Emilio](https://github.com/megonx)! -->
 
-<style>
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-</style>
-
-<h1 class="header">
+<h1 style="display: flex; justify-content: space-between; align-items: center;">
   <span>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/megonx">Marco Emilio</a>!</span>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black" alt="Visitors">
 </h1>
