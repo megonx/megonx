@@ -101,6 +101,7 @@ Experienced developer with extensive knowledge in web development, blockchain, a
 ![NLTK](https://img.shields.io/badge/NLTK-3B5526?style=for-the-badge&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-FF9A00?style=for-the-badge&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-3776AB?style=for-the-badge&logoColor=white)
 
 ### 🔧 DevOps & Infrastructure
 
