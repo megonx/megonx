@@ -1,8 +1,8 @@
 <!-- # Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Marco Emilio](https://github.com/megonx)! -->
 
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
+<h1>
   <span>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/megonx">Marco Emilio</a>!</span>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=megonx.megonx&right_color=black" alt="Visitors" align="right">
 </h1>
 
 <!-- <div align="center">
