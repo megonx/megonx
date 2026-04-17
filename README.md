@@ -20,11 +20,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Engineer;Blockchain+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Engineer;Blockchain+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
 
 </div>
 
-Experienced developer with extensive knowledge in web development, blockchain, and machine learning. Passionate about building innovative and scalable solutions using modern technologies.
+Experienced developer with strong expertise in web development, blockchain, and artificial intelligence. Focused on building innovative, scalable solutions using modern technologies.
 
 <h2 id="skills">🛠️ Technical Skills</h2>
 
