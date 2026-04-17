@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Engineer;Blockchain+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+%26+AI+Engineer;Blockchain+Enthusiast;Passionate+about+Technology" alt="Typing SVG" />
 
 </div>
 
