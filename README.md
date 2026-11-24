@@ -1,21 +1,24 @@
 # Hi, I'm Marco Emilio!
 
-Software Engineer with expertise in Artificial Intelligence (AI), Machine Learning, and Cybersecurity, specializing in Application Security (AppSec) and Secure Software Development.
+Software engineer with expertise in artificial intelligence (AI), machine learning, and cybersecurity, specializing in application security (AppSec) and secure software development.
 
 My focus is on building secure, scalable, high-performance solutions, including full-stack applications, intelligent systems, and decentralized applications.
 
-## Areas of expertise
+## Areas of Expertise
 
-- **Software Engineering:** full-stack development using TypeScript, Next.js, React, Node.js, and Python, with a focus on architecture, scalability, performance, and maintainability.
+- **Software Engineering:** Full-stack development using TypeScript, Next.js, React, Node.js, and Python, with a focus on software architecture, scalability, performance, and maintainability.
 
-- **Artificial Intelligence & Machine Learning:** development and integration of Machine Learning, Deep Learning, Data Science, and Natural Language Processing (NLP) solutions.
-- **Cybersecurity & AppSec:** Secure Software Development, OWASP, Security by Design, Threat Modeling, Secure Code Review, Vulnerability Management, and API Security.
+- **Artificial Intelligence & Machine Learning:** Development and integration of AI solutions involving machine learning (supervised, unsupervised, and reinforcement learning), deep learning, computer vision (CV), natural language processing (NLP), and data science.
 
-- **DevSecOps & Infrastructure:** process automation, CI/CD pipelines, security controls, Docker, and Cloud Computing.
+- **Generative AI & LLM Engineering:** Development of AI-powered applications using large language models (LLMs), small language models (SLMs), AI agents, model fine-tuning, prompt engineering, retrieval-augmented generation (RAG), vector databases, conversational AI, and multimodal content generation (text, image, video, and audio).
 
-- **Blockchain & Web3:** development of decentralized applications (dApps), smart contracts, and integration with Ethereum and Solana ecosystems.
+- **Cybersecurity & AppSec:** Secure software development, OWASP best practices, security by design, threat modeling, secure code review, vulnerability management, and API security.
 
-## GitHub activity
+- **DevSecOps & Infrastructure:** Process automation, CI/CD pipelines, security controls, Docker, Kubernetes, and cloud computing.
+
+- **Blockchain & Web3:** Development of decentralized applications (dApps) and smart contracts, as well as integration with the Ethereum and Solana ecosystems.
+
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats-nine-red.vercel.app?user=megonx&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak" width="495" />
