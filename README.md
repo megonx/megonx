@@ -1,25 +1,19 @@
 # Hi, I'm Marco Emilio!
 
-**Software & AI Engineer** · Web3 Enthusiast
+Software Engineer with expertise in Artificial Intelligence (AI), Machine Learning, and Cybersecurity, specializing in Application Security (AppSec) and Secure Software Development.
 
-Experienced developer focused on building scalable software, intelligent systems,
-and decentralized applications using modern technologies.
+My focus is on building secure, scalable, high-performance solutions, including full-stack applications, intelligent systems, and decentralized applications.
 
-## Technical skills
+## Areas of expertise
 
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React · Redux · Next.js |
-| Mobile | React Native |
-| Backend | Node.js · Express.js · Python · Django · Flask · Java · C/C++ · Rust |
-| Databases | SQL · MongoDB · Redis |
-| Web3 | Solana · Anchor · Ethereum · Solidity · OpenZeppelin · Vyper · Web3.js · Ethers.js · Web3.py |
-| Data Science | Pandas · NumPy · SciPy · Matplotlib · Seaborn · Plotly |
-| Machine Learning & AI | Scikit-learn · Scikit-multilearn · XGBoost · TensorFlow · Keras · PyTorch · OpenCV |
-| Natural Language Processing | NLTK · spaCy · Gensim · TextBlob |
-| DevOps & Infrastructure | Linux · Bash · Docker · GitHub Actions · Jenkins · Terraform · Ansible · Cloud Computing |
-| Observability & MLOps | Prometheus · Grafana · Sentry · New Relic · DVC · MLflow |
-| Engineering Practices | Responsive Design · Accessibility · SEO · Automated Testing |
+- **Software Engineering:** full-stack development using TypeScript, Next.js, React, Node.js, and Python, with a focus on architecture, scalability, performance, and maintainability.
+
+- **Artificial Intelligence & Machine Learning:** development and integration of Machine Learning, Deep Learning, Data Science, and Natural Language Processing (NLP) solutions.
+- **Cybersecurity & AppSec:** Secure Software Development, OWASP, Security by Design, Threat Modeling, Secure Code Review, Vulnerability Management, and API Security.
+
+- **DevSecOps & Infrastructure:** process automation, CI/CD pipelines, security controls, Docker, and Cloud Computing.
+
+- **Blockchain & Web3:** development of decentralized applications (dApps), smart contracts, and integration with Ethereum and Solana ecosystems.
 
 ## GitHub activity
 
