@@ -1,6 +1,6 @@
 # Hi, I'm Marco Emilio!
 
-**Software & AI Engineer** · Blockchain & Web3 Enthusiast
+**Software & AI Engineer** · Web3 Enthusiast
 
 Experienced developer focused on building scalable software, intelligent systems,
 and decentralized applications using modern technologies.
@@ -13,7 +13,7 @@ and decentralized applications using modern technologies.
 | Mobile | React Native |
 | Backend | Node.js · Express.js · Python · Django · Flask · Java · C/C++ · Rust |
 | Databases | SQL · MongoDB · Redis |
-| Blockchain & Web3 | Solana · Anchor · Ethereum · Solidity · OpenZeppelin · Vyper · Web3.js · Ethers.js · Web3.py |
+| Web3 | Solana · Anchor · Ethereum · Solidity · OpenZeppelin · Vyper · Web3.js · Ethers.js · Web3.py |
 | Data Science | Pandas · NumPy · SciPy · Matplotlib · Seaborn · Plotly |
 | Machine Learning & AI | Scikit-learn · Scikit-multilearn · XGBoost · TensorFlow · Keras · PyTorch · OpenCV |
 | Natural Language Processing | NLTK · spaCy · Gensim · TextBlob |
