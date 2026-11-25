@@ -6,7 +6,7 @@ My focus is on building secure, scalable, high-performance solutions, including 
 
 ## Areas of Expertise
 
-- **Software Engineering:** Full-stack development using TypeScript, Next.js, React, Node.js, and Python, with a focus on software architecture, scalability, performance, and maintainability.
+- **Software Engineering:** Full-stack development using TypeScript, Next.js, React, Node.js, Python and Java, with a focus on software architecture, scalability, performance, and maintainability.
 
 - **Artificial Intelligence & Machine Learning:** Development and integration of AI solutions involving machine learning (supervised, unsupervised, and reinforcement learning), deep learning, computer vision (CV), natural language processing (NLP), and data science.
 
