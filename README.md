@@ -14,7 +14,7 @@ My focus is on building secure, scalable, high-performance solutions, including 
 
 - **Cybersecurity & AppSec:** Secure software development, OWASP best practices, security by design, threat modeling, secure code review, vulnerability management, and API security.
 
-- **DevSecOps & Infrastructure:** Process automation, CI/CD pipelines, security controls, Docker, Kubernetes, and cloud computing.
+- **DevSecOps & Infrastructure:** Process automation, CI/CD pipelines, security controls, containerization, container orchestration, and cloud computing & security.
 
 - **Blockchain & Web3:** Development of decentralized applications (dApps) and smart contracts, as well as integration with the Ethereum and Solana ecosystems.
 
