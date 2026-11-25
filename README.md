@@ -10,11 +10,11 @@ My focus is on building secure, scalable, high-performance solutions, including 
 
 - **Artificial Intelligence & Machine Learning:** Development and integration of AI solutions involving machine learning (supervised, unsupervised, and reinforcement learning), deep learning, computer vision (CV), natural language processing (NLP), and data science.
 
-- **Generative AI & LLM Engineering:** Development of AI-powered applications using large language models (LLMs), small language models (SLMs), AI agents, model fine-tuning, prompt engineering, retrieval-augmented generation (RAG), vector databases, conversational AI, and multimodal content generation (text, image, video, and audio).
+- **Generative AI:** Development of AI-powered applications using large language models (LLMs), small language models (SLMs), AI agents, model fine-tuning, prompt engineering, retrieval-augmented generation (RAG), vector databases, conversational AI, and multimodal content generation (text, image, video, and audio).
 
 - **Cybersecurity & AppSec:** Secure software development, OWASP best practices, security by design, threat modeling, secure code review, vulnerability management, and API security.
 
-- **DevSecOps & Infrastructure:** Process automation, CI/CD pipelines, security controls, containerization, container orchestration, and cloud computing & security.
+- **DevSecOps & Infrastructure:** Process automation, CI/CD pipelines, security controls, containerization, container orchestration, and cloud computing.
 
 - **Blockchain & Web3:** Development of decentralized applications (dApps) and smart contracts, as well as integration with the Ethereum and Solana ecosystems.
 
