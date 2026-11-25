@@ -1,22 +1,22 @@
 # Hi, I'm Marco Emilio!
 
-Software engineer with expertise in artificial intelligence (AI), machine learning, and cybersecurity, specializing in application security (AppSec) and secure software development.
+Software Engineer with expertise in artificial intelligence, machine learning, cybersecurity, and decentralized applications.
 
-My focus is on building secure, scalable, high-performance solutions, including full-stack applications, intelligent systems, and decentralized applications.
+I build secure, scalable, high-performance software — from full-stack web applications to AI-powered systems and smart contracts — applying security by design from architecture to deployment.
 
 ## Areas of Expertise
 
-- **Software Engineering:** Full-stack development using TypeScript, Next.js, React, Node.js, Python and Java, with a focus on software architecture, scalability, performance, and maintainability.
+- **Software Engineering:** Full-stack development with TypeScript, Next.js, React, Node.js, Python, and Java, focused on software architecture, scalability, performance, and maintainability.
 
-- **Artificial Intelligence & Machine Learning:** Development and integration of AI solutions involving machine learning (supervised, unsupervised, and reinforcement learning), deep learning, computer vision (CV), natural language processing (NLP), and data science.
+- **Application Security (AppSec):** Secure SDLC, threat modeling, secure code review, OWASP-aligned practices, API security, and vulnerability management.
 
-- **Generative AI:** Development of AI-powered applications using large language models (LLMs), small language models (SLMs), AI agents, model fine-tuning, prompt engineering, retrieval-augmented generation (RAG), vector databases, conversational AI, and multimodal content generation (text, image, video, and audio).
+- **DevSecOps & Cloud:** CI/CD pipelines with integrated security controls, process automation, containerization and orchestration, and cloud infrastructure.
 
-- **Cybersecurity & AppSec:** Secure software development, OWASP best practices, security by design, threat modeling, secure code review, vulnerability management, and API security.
+- **Machine Learning & Deep Learning:** Computer vision, natural language processing (NLP), and speech and audio processing — from model development to production integration.
 
-- **DevSecOps & Infrastructure:** Process automation, CI/CD pipelines, security controls, containerization, container orchestration, and cloud computing.
+- **Generative AI:** LLM- and SLM-based applications, AI agents, retrieval-augmented generation (RAG) with vector databases, fine-tuning, prompt engineering, and multimodal generation (text, image, video, and audio).
 
-- **Blockchain & Web3:** Development of decentralized applications (dApps) and smart contracts, as well as integration with the Ethereum and Solana ecosystems.
+- **Blockchain & Web3:** Decentralized applications (dApps), smart contracts, and integrations with the Ethereum and Solana ecosystems.
 
 ## GitHub Activity
 
