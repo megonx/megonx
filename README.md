@@ -12,7 +12,7 @@ I build secure, scalable, high-performance software — from full-stack web appl
 
 - **DevSecOps & Cloud:** CI/CD pipelines with integrated security controls, process automation, containerization and orchestration, monitoring and observability, and cloud infrastructure.
 
-- **Machine Learning & Deep Learning:** Computer vision, natural language processing (NLP), and speech and audio processing — from model development to production integration.
+- **Machine Learning & Deep Learning:** Computer vision, natural language processing (NLP), speech and audio processing, time series, recommender systems and graph machine learning — from model development to production integration.
 
 - **Generative AI:** LLM- and SLM-based applications, AI agents, retrieval-augmented generation (RAG) with vector databases, fine-tuning, prompt engineering, and multimodal generation (text, image, video, and audio).
 
