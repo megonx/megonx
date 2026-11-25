@@ -16,7 +16,7 @@ I build secure, scalable, high-performance software — from full-stack web appl
 
 - **Generative AI:** LLM- and SLM-based applications, AI agents, retrieval-augmented generation (RAG) with vector databases, fine-tuning, prompt engineering, and multimodal generation (text, image, video, and audio).
 
-- **Blockchain & Web3:** Decentralized applications (dApps), smart contracts, and integrations with the Ethereum and Solana ecosystems.
+- **Blockchain & Web3:** Decentralized applications (dApps), smart contracts, and integrations across EVM-compatible and Solana ecosystems.
 
 ## GitHub Activity
 
