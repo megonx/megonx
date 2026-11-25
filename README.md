@@ -10,7 +10,7 @@ I build secure, scalable, high-performance software — from full-stack web appl
 
 - **Application Security (AppSec):** Secure SDLC, threat modeling, secure code review, OWASP-aligned practices, API security, and vulnerability management.
 
-- **DevSecOps & Cloud:** CI/CD pipelines with integrated security controls, process automation, containerization and orchestration, and cloud infrastructure.
+- **DevSecOps & Cloud:** CI/CD pipelines with integrated security controls, process automation, containerization and orchestration, monitoring and observability, and cloud infrastructure.
 
 - **Machine Learning & Deep Learning:** Computer vision, natural language processing (NLP), and speech and audio processing — from model development to production integration.
 
