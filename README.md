@@ -8,7 +8,7 @@ I build secure, scalable, high-performance software — from full-stack web appl
 
 - **Software Engineering:** Full-stack development with TypeScript, Next.js, React, Node.js, Python, and Java, focused on software architecture, scalability, performance, and maintainability.
 
-- **Application Security (AppSec):** Secure SDLC, threat modeling, secure code review, OWASP-aligned practices, API security, and vulnerability management.
+- **Application Security (AppSec):** SSDLC, OWASP-aligned practices, threat modeling, secure code review, API security, and vulnerability management.
 
 - **DevSecOps & Cloud:** CI/CD pipelines with integrated security controls, process automation, containerization and orchestration, monitoring and observability, and cloud infrastructure.
 
